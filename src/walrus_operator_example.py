@@ -2,6 +2,7 @@
 # 1 - replace all imported typing classes with builtin and Union operator
 # 2 - refactor retrieve_records using walrus := operator
 # 3 - refactor merge_records using union | or |= operator
+# 4 - bonus - use type alias for retrieved records
 
 import time
 from typing import List, Dict, Optional
