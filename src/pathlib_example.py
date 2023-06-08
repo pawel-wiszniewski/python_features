@@ -1,3 +1,7 @@
+# tasks:
+# 1 - refactor read_config function to use pathlib function and Path object
+
+
 import json
 import os
 from typing import Any
